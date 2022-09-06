@@ -1,0 +1,5 @@
+bu 1
+cuo 1
+h 1
+ha 3
+hen 1
