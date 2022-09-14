@@ -1,14 +1,24 @@
 bi 1
 bu 1
 cuo 1
+e 2
+en 1
 h 1
 ha 3
-hen 1
+hao 3
+hen 3
 hui 1
 jiao 1
 mei 2
+na 1
+ne 1
+ni 1
+nin 1
+ri 1
 ti 1
 wei 1
 wen 1
+wo 2
+ya 1 1
 yin 1
 you 2
